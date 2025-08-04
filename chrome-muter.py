@@ -1,5 +1,3 @@
-# YouTube Clip Title: I Fixed The Bug In My Ultimate Lazy Mute Script.
-
 import time
 import msvcrt
 import ctypes
